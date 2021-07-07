@@ -7,10 +7,8 @@ This repository contains a few projects which were coded in C#.
 <p>
 <ul>
 <li>Tic-Tac-Toe</li>
-<img src="https://media.giphy.com/media/l1BgSbJuPVcLJClmo/giphy.gif" width="17%"/>
-  
-  
-<li>Calculator</li>
+<br><img src="https://github.com/thaycn/CSharp/blob/main/Tic%20tac%20toe/Calculator.gif" width="25%"/>
+<br><li>Calculator</li>
 <li>Vaccine form</li>
 <li>Hangmon🏻</li>
 </ul>
