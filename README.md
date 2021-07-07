@@ -7,7 +7,7 @@ This repository contains a few projects which were coded in C#.
 <p>
 <ul>
 <li>Tic-Tac-Toe</li>
-  
+<img src="https://media.giphy.com/media/l1BgSbJuPVcLJClmo/giphy.gif" width="17%"/>
   
   
 <li>Calculator</li>
